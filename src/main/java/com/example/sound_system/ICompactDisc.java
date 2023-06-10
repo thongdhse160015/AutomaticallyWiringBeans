@@ -1,4 +1,4 @@
-package com.example.soundsystem;
+package com.example.sound_system;
 
 public interface ICompactDisc {
     void play();

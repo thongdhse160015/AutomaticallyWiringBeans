@@ -1,6 +1,5 @@
-package com.example.soundsystem;
+package com.example.sound_system;
 
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
